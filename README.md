@@ -148,3 +148,16 @@ Here are some steps to test and validate this log analytics pipeline solution:
 - Use the OpenSearch dashboard or query API to search and retrieve indexed log documents. Validate correct parsing and mapping of fields. 
 
 Thorough end-to-end testing is key to ensuring a reliable, efficient log analytics pipeline. The steps above validate correctness, security, resilience and optimization of the solution.
+
+# License
+
+This library is licensed under the MIT-0 License. See the LICENSE file.
+
+- [Changelog](CHANGELOG.md) of the project.
+- [License](LICENSE) of the project.
+- [Code of Conduct](CODE_OF_CONDUCT.md) of the project.
+- [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+
+# Legal Disclaimer
+
+You should consider doing your own independent assessment before using the content in this sample for production purposes. This may include (amongst other things) testing, securing, and optimizing the content provided in this sample, based on your specific quality control practices and standards.
